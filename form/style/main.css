@@ -1,0 +1,12 @@
+form {
+    width: 200px;
+    padding: 10px;
+    float: left;
+}
+form p:first-child {
+    text-align: center;
+}
+input {
+    width: 100%;
+    box-sizing: border-box;
+}

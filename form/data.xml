@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <login>rex1</login> 
+        <pass>1</pass>
+        <salt></salt>
+        <email>rex1@mail.ru</email>
+        <name>Maxim</name>
+    </user>
+    <user>
+        <login>rex2</login> 
+        <pass>2</pass>
+        <salt></salt>
+        <email>rex2@mail.ru</email>
+        <name>Tolik</name>
+    </user>
+</users>
